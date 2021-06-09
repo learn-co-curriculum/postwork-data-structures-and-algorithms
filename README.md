@@ -5,7 +5,12 @@ seen this course on Canvas as well during your time in the program. This repo
 is set up to give you easy access to the material from this course upon graduation
 so you can continue working and prepare for technical interviews.
 
-Fork and clone this repository to get started!
+## Setup
+
+**Fork and clone** this repository to get started! All the lessons for this
+course are contained in separate folders in this repo. Use the
+[Course Roadmap](#course-roadmap) at the bottom of this page to navigate and
+track your progress.
 
 ## How to Progress Through This Course
 
