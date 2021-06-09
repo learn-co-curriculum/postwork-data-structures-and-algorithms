@@ -1,0 +1,19 @@
+{
+  "name": "find_target",
+  "version": "1.0.0",
+  "description": "find target node in BST",
+  "main": "find_target.js",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "flatiron",
+  "license": "ISC"
+}

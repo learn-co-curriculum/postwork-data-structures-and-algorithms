@@ -1,0 +1,19 @@
+{
+    "name": "fibonacci",
+    "version": "1.0.0",
+    "description": "find nth value in fibo sequence with DP",
+    "main": "fibonacci.js",
+    "dependencies": {
+        "jest": "^26.6.3"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "none"
+    },
+    "author": "flatiron",
+    "license": "ISC"
+}

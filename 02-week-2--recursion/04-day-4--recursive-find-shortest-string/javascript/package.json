@@ -1,0 +1,19 @@
+{
+  "name": "find_shortest_string_recursive",
+  "version": "1.0.0",
+  "description": "find_shortest_string_recursive",
+  "main": "find_shortest_string_recursive.js",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "flatiron",
+  "license": "ISC"
+}

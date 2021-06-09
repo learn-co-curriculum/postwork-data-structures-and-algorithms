@@ -1,0 +1,19 @@
+{
+  "name": "reverse_string",
+  "version": "1.0.0",
+  "description": "reverse a string",
+  "main": "reverse_string.js",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "flatiron",
+  "license": "ISC"
+}

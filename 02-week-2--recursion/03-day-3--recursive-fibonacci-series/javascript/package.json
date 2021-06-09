@@ -1,0 +1,19 @@
+{
+  "name": "fibonacci_recursive",
+  "version": "1.0.0",
+  "description": "recursive fibo",
+  "main": "fibonacci_recursive.js",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "flatiron",
+  "license": "ISC"
+}

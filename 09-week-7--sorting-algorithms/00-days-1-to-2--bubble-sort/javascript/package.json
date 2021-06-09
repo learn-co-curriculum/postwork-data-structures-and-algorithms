@@ -1,0 +1,19 @@
+{
+  "name": "bubble_sort",
+  "version": "1.0.0",
+  "description": "bubble sort",
+  "main": "bubble_sort.js",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "flatiron",
+  "license": "ISC"
+}

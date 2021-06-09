@@ -1,0 +1,19 @@
+{
+  "name": "rotate_array",
+  "version": "1.0.0",
+  "description": "rotate_array",
+  "main": "rotate_array.js",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "flatiron",
+  "license": "ISC"
+}

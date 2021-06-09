@@ -1,0 +1,19 @@
+{
+  "name": "merge_sort",
+  "version": "1.0.0",
+  "description": "merge sort",
+  "main": "merge_sort.js",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "flatiron",
+  "license": "ISC"
+}

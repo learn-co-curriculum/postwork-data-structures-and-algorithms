@@ -1,0 +1,19 @@
+{
+  "name": "selection_sort_recursive",
+  "version": "1.0.0",
+  "description": "selection_sort_recursive",
+  "main": "selection_sort_recursive.js",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "flatiron",
+  "license": "ISC"
+}

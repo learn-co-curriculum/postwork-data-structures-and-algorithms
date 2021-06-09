@@ -1,0 +1,19 @@
+{
+  "name": "find_first_duplicate",
+  "version": "1.0.0",
+  "description": "find_first_duplicate",
+  "main": "find_first_duplicate.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "flatiron",
+  "license": "ISC"
+}
