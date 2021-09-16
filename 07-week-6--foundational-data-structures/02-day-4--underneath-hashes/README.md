@@ -19,7 +19,7 @@ does it work under the hood?
 ## Hash Functions
 
 For a hash to work, we use a **hash function** to determine where in memory to
-store a information related to that key. Later, we use the same hash function to
+store information related to that key. Later, we use the same hash function to
 determine where to search for a given key.
 
 One way to think about how hashes relate to hash functions is thinking about how
@@ -29,7 +29,7 @@ author of a book, and the librarian tells us precisely where to find the book.
 ![library book example](https://s3-us-west-2.amazonaws.com/curriculum-content/algorithms/dewey-decimal-arrangement.jpg)
 
 In this analogy, our **key** is the title and author of the book, which we can
-use to determine the appropriate card catalogue id. The card catalogue id (which
+use to determine the appropriate card catalog id. The card catalog id (which
 comes from the Dewey Decimal System above — think of that as our **hash
 function**) tells us exactly where to find the book. If the book is there, we
 have our book and all of the information inside. If nothing is there, there is
@@ -121,7 +121,7 @@ technique, our hash table looks like the following:
 | 800   |                    [ "*War and Peace*" ]                     |
 | 900   |                  [ "*Alexander Hamilton*" ]                  |
 
-In the worse case scenario, all of our inserted elements collide, and we have to
+In the worst case scenario, all of our inserted elements collide, and we have to
 traverse a linked list of length `n` to retrieve an element, so we have **O(n)**
 runtime. However, on average collisions do not occur, so we achieve constant
 time for lookup, insertion and deletion _on average_.
@@ -137,9 +137,9 @@ the chance of a collision occurring. Some properties of a good hash function are
    values.
 2. Maps similar keys to very different values - making collisions much less likely.
 
-### Summary
+## Conclusion
 
-In this lesson we learned about **hash tables**. Hash tables use a **hash
+In this lesson, we learned about **hash tables**. Hash tables use a **hash
 function** to output a **hash value**. The hash value determines where to place
 the element in memory. Because a hash function produces the same hash value for
 a given element, it also gives us fast lookup time to retrieve an element.
