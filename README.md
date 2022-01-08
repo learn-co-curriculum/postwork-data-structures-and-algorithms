@@ -78,14 +78,14 @@ the pairing exercises together and give feedback.
 
 ### Welcome
 
-- [ ] [Welcome to Technical Interview Preparation](./00-welcome/00-welcome-to-technical-interview-preparation)
-- [ ] [Algorithmic Problem Solving](./00-welcome/01-algorithmic-problem-solving)
-- [ ] [A Note on Testing](./00-welcome/02-a-note-on-testing)
-- [ ] [Problem Solving Tips](./00-welcome/03-problem-solving-tips)
+- [x] [Welcome to Technical Interview Preparation](./00-welcome/00-welcome-to-technical-interview-preparation)
+- [x] [Algorithmic Problem Solving](./00-welcome/01-algorithmic-problem-solving)
+- [x] [A Note on Testing](./00-welcome/02-a-note-on-testing)
+- [x] [Problem Solving Tips](./00-welcome/03-problem-solving-tips)
 
 ### Week 1: Starter Algorithms
 
-- [ ] [Day 1: Reverse a String](./01-week-1--starter-algorithms/00-day-1--reverse-a-string)
+- [x] [Day 1: Reverse a String](./01-week-1--starter-algorithms/00-day-1--reverse-a-string)
 - [ ] [Day 2: Find First Duplicate](./01-week-1--starter-algorithms/01-day-2--find-first-duplicate)
 - [ ] [Day 3: Fibonacci Series](./01-week-1--starter-algorithms/02-day-3--fibonacci-series)
 - [ ] [Day 4: Selection Sort](./01-week-1--starter-algorithms/03-day-4--selection-sort)
