@@ -86,7 +86,7 @@ the pairing exercises together and give feedback.
 ### Week 1: Starter Algorithms
 
 - [x] [Day 1: Reverse a String](./01-week-1--starter-algorithms/00-day-1--reverse-a-string)
-- [ ] [Day 2: Find First Duplicate](./01-week-1--starter-algorithms/01-day-2--find-first-duplicate)
+- [x] [Day 2: Find First Duplicate](./01-week-1--starter-algorithms/01-day-2--find-first-duplicate)
 - [ ] [Day 3: Fibonacci Series](./01-week-1--starter-algorithms/02-day-3--fibonacci-series)
 - [ ] [Day 4: Selection Sort](./01-week-1--starter-algorithms/03-day-4--selection-sort)
 - [ ] [Day 5: Find Shortest String](./01-week-1--starter-algorithms/04-day-5--find-shortest-string)
