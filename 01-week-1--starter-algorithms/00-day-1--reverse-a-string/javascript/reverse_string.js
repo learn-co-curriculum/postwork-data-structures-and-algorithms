@@ -1,6 +1,19 @@
+// function reverseString(str) {
+//   return str.split()
+// //   let answer = str.split()
+// // console.log(answer)
+  
+// }
 function reverseString(str) {
- return [...str].reverse().join('')
+  var newString = '';
+  for (var i = str.length - 1; i >= 0; i--) {
+      newString += str[i];
+  }
+  return newString.toString();
 }
+
+
+
 
 if (require.main === module) {
   // add your own tests in here
@@ -17,7 +30,7 @@ module.exports = reverseString;
 
 // Please add your pseudocode to this file
 // we want whatever the string inside the argument in reverse
- //  My thoughts: .revrse() reverses the string to cause the string to go into revrese order
+//  My thoughts: .revrse() reverses the string to cause the string to go into revrese order
 
 
 
