@@ -104,7 +104,8 @@ Don’t optimize your code for time or space complexity (e.g. how long it takes 
 run or how much memory it’s using) unless you absolutely need to. There are
 three major situations that call for optimization:
 
-- The solution is hanging on certain test cases, and therefore cannot pass since it’s taking too long
+- The solution is hanging on certain test cases, and therefore cannot pass since
+  it’s taking too long
 - You were asked to do so
 - You think it would be fun to try
 

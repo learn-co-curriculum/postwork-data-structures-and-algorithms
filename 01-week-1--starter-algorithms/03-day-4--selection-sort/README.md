@@ -1,15 +1,19 @@
 # Day 4: Selection Sort
 
-Sort an Array of numbers using selection sort. The selection sort algorithm sorts an array by repeatedly finding the minimum element (lowest value) in the input Array, and then putting it at the correct location in the sorted Array.
+Sort an Array of numbers using selection sort. The selection sort algorithm
+sorts an array by repeatedly finding the minimum element (lowest value) in the
+input Array, and then putting it at the correct location in the sorted Array.
 
-```
+```js
 Input: [3, -1, 5, 2]
 Output: [-1, 2, 3, 5]
 ```
 
-**Benchmarking**
+## Benchmarking
 
-For this task, we are also asking you to calculate the average runtime of your solution. In other words, you run it a bunch of times and then divide the total time it took for the solution to run by the number of times it ran.
+For this task, we are also asking you to calculate the average runtime of your
+solution. In other words, you run it a bunch of times and then divide the total
+time it took for the solution to run by the number of times it ran.
 
 Here is the pseudocode for creating your own basic benchmarking procedure:
 
@@ -25,7 +29,8 @@ average runtime = (current time - start time) / 2000
 
 We have provided you with the long input to use for benchmarking.
 
-Use the language of your choosing. We've included starter files for some languages where you can pseudocode, explain your solution and code.
+Use the language of your choosing. We've included starter files for some
+languages where you can pseudocode, explain your solution and code.
 
 ## Before you start coding:
 
