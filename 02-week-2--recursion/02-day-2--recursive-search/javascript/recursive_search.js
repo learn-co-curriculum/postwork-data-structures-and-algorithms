@@ -1,5 +1,15 @@
 function recursiveSearch(arr, target) {
-  // type your code here
+  if (arr.length === 0) {
+    return false
+  }
+  const currentItem = arr[0]
+  if (currentItem === target) {
+    return true
+  }
+  
+  const remainingItems = arr.slice(1)
+  return recursiveSearch(remainingItems, target)
+
 }
 
 if (require.main === module) {
@@ -16,4 +26,13 @@ if (require.main === module) {
 module.exports = recursiveSearch;
 
 // Please add your pseudocode to this file
+
+//if array.length = 0 
+//return false
+//if element[i] in array = target 
+//return true
+//someVariable = array.slice 
+//recursiveSearch(someVariable, target)
+
+
 // And a written explanation of your solution
