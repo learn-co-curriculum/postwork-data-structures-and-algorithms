@@ -2,13 +2,13 @@ function recursiveSearch(arr, target) {
   if (arr.length === 0) {
     return false
   }
-  const currentItem = arr[0]
-  if (currentItem === target) {
+
+  if (arr[0] === target) {
     return true
   }
-  
-  const remainingItems = arr.slice(1)
-  return recursiveSearch(remainingItems, target)
+
+  return recursiveSearch(arr.slice(1), target)
+
 
 }
 
@@ -24,6 +24,14 @@ if (require.main === module) {
 }
 
 module.exports = recursiveSearch;
+
+
+
+
+
+
+
+
 
 // Please add your pseudocode to this file
 
