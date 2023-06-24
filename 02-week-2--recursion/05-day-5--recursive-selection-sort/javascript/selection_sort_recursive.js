@@ -1,5 +1,15 @@
 function selectionSortRecursive(arr) {
-  // type your code here
+if (arr.length < 1) {
+  return []
+}
+
+  const smallestNum = Math.min(...arr)
+  const index = arr.indexOf(smallestNum)
+  arr.splice(index, 1)
+  const result = selectionSortRecursive(arr)
+  result.unshift(smallestNum)
+  return result
+
 }
 
 if (require.main === module) {
